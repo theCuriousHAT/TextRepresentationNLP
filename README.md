@@ -21,7 +21,7 @@ This project delves into various techniques for representing text data in Natura
 
 # Prerequisites
 
-Python 3.7 or higher
+Python 3.7 or higher \n
 Jupyter Notebook
 
 # Installation
