@@ -17,27 +17,42 @@ This project delves into various techniques for representing text data in Natura
 └── README.md
 ```
 
+
 🚀 Getting Started
 
-# Prerequisites
+## Prerequisites
 
-Python 3.7 or higher \n
-Jupyter Notebook
+- Python 3.7 or higher
+- Jupyter Notebook
 
-# Installation
-Clone the repository:
-git clone https://github.com/theCuriousHAT/TextRepresentationNLP.git
-cd TextRepresentationNLP
+## Installation
 
-# Create a virtual environment (optional but recommended):
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+1. Clone the repository:
 
-# Install the required packages:
-pip install -r requirements.txt
+    ```bash
+    git clone https://github.com/theCuriousHAT/TextRepresentationNLP.git
+    cd TextRepresentationNLP
+    ```
 
-# Launch Jupyter Notebook:
-jupyter notebook
+2. Create a virtual environment (optional but recommended):
+
+    ```bash
+    python -m venv venv
+    source venv/bin/activate  # On Windows: venv\Scripts\activate
+    ```
+
+3. Install the required packages:
+
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+4. Launch Jupyter Notebook:
+
+    ```bash
+    jupyter notebook
+    ```
+
 
 
 
