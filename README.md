@@ -1,18 +1,15 @@
 # 🧠 Text Representation in NLP
 
-This project delves into various techniques for representing text data in Natural Language Processing (NLP). It covers foundational methods like Bag of Words (BoW) and Term Frequency-Inverse Document Frequency (TF-IDF), as well as advanced approaches such as Word2Vec and BERT embeddings. The goal is to provide a comprehensive understanding of how different text representation methods can be implemented and compared.
+This project delves into various techniques for representing text data in Natural Language Processing (NLP). It covers foundational methods like Bag of Words (BoW) and Term Frequency-Inverse Document Frequency (TF-IDF). The goal is to provide a comprehensive understanding of how different text representation methods can be implemented and compared. This is part-1 of the text representation series, which covers just the basics of how text can be represented in Vector form. The notebook covers the concepts in detail using examples and code. Vectorizing techniques are also been coded from scratch for better understanding.
 
 # 📂 Project Structure
 
 ```
 📂 TextRepresentationNLP/
 ├── Text_representation/
-│   ├── 01_BoW_TFIDF.ipynb
-│   ├── 02_Word2Vec.ipynb
-│   ├── 03_BERT_Embeddings.ipynb
-│   └── utils.py
+│   ├── nlp2_text_repre_medium_article.ipynb
 ├── data/
-│   └── sample_corpus.txt
+│   └── medium_articles_v3.csv
 ├── requirements.txt
 └── README.md
 ```
