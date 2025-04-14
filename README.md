@@ -4,5 +4,17 @@ This project delves into various techniques for representing text data in Natura
 
 📂 Project Structure
 
-```bash 📂 TextRepresentationNLP/ ├── Text_representation/ │ ├── 01_BoW_TFIDF.ipynb │ ├── 02_Word2Vec.ipynb │ ├── 03_BERT_Embeddings.ipynb │ └── utils.py ├── data/ │ └── sample_corpus.txt ├── requirements.txt └── README.md ```
+```
+📂 TextRepresentationNLP/
+├── Text_representation/
+│   ├── 01_BoW_TFIDF.ipynb
+│   ├── 02_Word2Vec.ipynb
+│   ├── 03_BERT_Embeddings.ipynb
+│   └── utils.py
+├── data/
+│   └── sample_corpus.txt
+├── requirements.txt
+└── README.md
+```
+
 
